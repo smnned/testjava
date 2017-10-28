@@ -1,5 +1,8 @@
 <?php
 
-echo "Mi Ban";
+echo "es mi bannel poxvav";
+function inchvorban {
+echo "inchvor urish ban";
+}
 
  ?>
